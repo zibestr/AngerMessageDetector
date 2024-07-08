@@ -1,1 +1,1 @@
-# Spam Detector Telegram Bot
+# Anger Message Detector Telegram Bot
