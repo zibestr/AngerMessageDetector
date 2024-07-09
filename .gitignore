@@ -3,3 +3,5 @@ data
 .venv
 .mypy_cache
 .DS_Store
+__pycache__
+.env
